@@ -1,4 +1,4 @@
-# Pooltime ![cutedeadpoolq](https://github.com/user-attachments/assets/4770ae08-6d5a-4951-a211-ec3f2470ab9c)
+# DeadPooltime ![cutedeadpoolq](https://github.com/user-attachments/assets/4770ae08-6d5a-4951-a211-ec3f2470ab9c)
 
 
 My own Scratch game inspired by **Oscartime**, built as part of **CS50x 2025 – Week 0 (Scratch)**.  
