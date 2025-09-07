@@ -1,4 +1,4 @@
-# Deadpooltime !
+# Deadpooltime!
 
 
 My own Scratch game inspired by **Oscartime**, built as part of **CS50x 2025 – Week 0 (Scratch)**.  
